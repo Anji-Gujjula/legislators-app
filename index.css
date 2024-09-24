@@ -1,0 +1,30 @@
+/* src/App.css */
+table {
+  width: 100%;
+  border-collapse: collapse;
+}
+
+th, td {
+  border: 1px solid #ddd;
+  padding: 8px;
+  text-align: center;
+}
+
+th {
+  background-color: #f2f2f2;
+}
+
+button {
+  margin-top: 20px;
+}
+
+.tick {
+  color: green;
+  margin-right: 5px;
+}
+
+.cross {
+  color: red;
+  margin-right: 5px;
+}
+
